@@ -1,0 +1,2 @@
+# filehash
+A file hasher
